@@ -316,6 +316,7 @@ footer img.cc{
 
 ul li, ol li{
 	margin-left: 2rem;
+        text-align:justify;
 }
 
 .textLeft{
@@ -347,6 +348,7 @@ ul li::before {
 	margin-right: -1rem;
 	line-height: 1rem;
 	position: relative;
+        text-align: justify;
 	top: .3rem;
 }
 
@@ -374,6 +376,7 @@ ol li {
 ol li b, ul li b{
 	color: var(--color2);
 }
+
 
 .ejemploCodigo{
 	background-color: rgba(0,0,0,.05);
